@@ -30,7 +30,4 @@ public class ContainsDuplicate {
         int[]nums = {'1','3','5','1'};
         containsDuplicate(nums);
     }
-
-
-
 }
